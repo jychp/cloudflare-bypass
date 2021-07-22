@@ -1,6 +1,8 @@
 Bypass Cloudflare
 =================
 
+**DISCLAIMER: X-Forwarded-For has been patched by CloudFlare, but you can still use this script for proxy purpose**
+
 ## General
 
 Related to my Medium post: [How to bypass Cloudflare bot protection](https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb)
